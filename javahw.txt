@@ -1,0 +1,30 @@
+1) Why Java is a programming language?
+Java is easy to use and learn compare to other programming languages because of this reason
+it's also is easy to compile and debug.
+
+2) Why Java is a platform independent language?
+ Java is platform independent language is because it can be used on any machine
+like windows, linex, android.
+
+3) What is Syntax in Java ?
+ Syntax is programming rules in Java.
+
+4) What is compilation error?
+ Compilation error is when compiler (netbeans,eclipse)fail to compile program due to error in the code.
+
+5) What is Maven?
+ Maven is a project development tool.
+
+6) What is IDE ? And what are popular JAVA IDEs in the
+market?
+IDE stands integrated development environment. Some of the popular IDE"S are NetBeans & eclipse.
+
+7) What are the rules for the variable naming conventions?
+Variable is temporary storage. Some of the rules are 1st you have to declare variable 2nd you have to 
+input and assign then 3rd process math(logic) and 4th output what you display.
+
+8) What is program?
+It is series of coded data & instructions in random or logical order to control the operation 
+
+9) What is high level language and low-level language?
+High level languages (source code) require the use of compiler for the translation into the machine code.
